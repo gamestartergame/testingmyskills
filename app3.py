@@ -1,4 +1,6 @@
 import time
+from  pynput.keyboard import  Controller
+import os
 #for x in "banana":
  #time.sleep(1)
  #print(x)
@@ -13,6 +15,8 @@ import time
 #if x==m3:
 
 # print(x)
-for x in range(6):
-    time.sleep(1)
-    print(x)
+#for x in range(6):
+    #time.sleep(1)
+    #print(x)
+
+
